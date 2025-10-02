@@ -1,3 +1,1 @@
-# central-server
-
-# WIP
+# WIP central-server
